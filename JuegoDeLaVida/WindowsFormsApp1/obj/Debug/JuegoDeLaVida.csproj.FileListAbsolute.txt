@@ -1,0 +1,10 @@
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JuegoDeLaVida.csprojAssemblyReference.cache
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JuegoDeLaVida.csproj.GenerateResource.cache
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JuegoDeLaVida.csproj.CoreCompileInputs.cache
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\JavierKLR\Desktop\Juego-de-la-vida-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
